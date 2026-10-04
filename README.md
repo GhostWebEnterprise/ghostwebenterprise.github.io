@@ -18,4 +18,4 @@ GhostWeb Enterprise is the project hub for GhostWeb Signal, Ghost Web VPN, Ghost
 
 Ghost Web VPN development currently focuses on connection-state clarity, endpoint verification, fail-closed behavior, leak hardening and cross-platform clients. Development builds should not be treated as production-ready privacy infrastructure until the project explicitly reaches a verified stable release.
 
-Contact: **ghostweb@ghostbin.cfd**
+Contact: **support-ghostweb@proton.me**
