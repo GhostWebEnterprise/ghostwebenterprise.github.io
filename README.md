@@ -7,7 +7,6 @@
 **The official web hub for the GhostWeb Enterprise ecosystem.**
 
 [![Website](https://img.shields.io/badge/Website-ghostweb.bot.cd-0B57D0?style=plastic&logo=googlechrome&logoColor=white)](https://ghostweb.bot.cd)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-ghostwebenterprise.github.io-222222?style=plastic&logo=githubpages&logoColor=white)](https://ghostwebenterprise.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-GhostWebEnterprise-181717?style=plastic&logo=github&logoColor=white)](https://github.com/GhostWebEnterprise)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=plastic)](https://github.com/GhostWebEnterprise/ghostwebenterprise.github.io)
 [![Need support?](https://img.shields.io/badge/Need%20support%3F-support--ghostweb%40proton.me-6D4AFF?style=plastic&logo=protonmail&logoColor=white)](mailto:support-ghostweb@proton.me)
